@@ -1,0 +1,29 @@
+.card {
+  padding: 25px;
+  border-radius: 16px;
+  background-color: #f9fafb;
+  border: 1px solid #e5e7eb;
+}
+
+.subtitle {
+  margin-bottom: 20px;
+  font-size: 24px;
+  color: #1f2937;
+}
+
+.message {
+  font-size: 18px;
+  color: #6b7280;
+  margin: 0;
+}
+
+.stat {
+  font-size: 18px;
+  color: #374151;
+  margin: 10px 0;
+}
+
+span {
+  font-weight: 700;
+  color: #111827;
+}
